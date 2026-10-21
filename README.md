@@ -5,10 +5,6 @@
 
 **I build full-stack web applications — from clean interfaces to secure APIs and reliable data.**
 
-<a href="#-core-stack">Core stack</a> &nbsp;·&nbsp;
-<a href="#-engineering-focus">Engineering focus</a> &nbsp;·&nbsp;
-<a href="#-selected-work">Selected work</a> &nbsp;·&nbsp;
-<a href="#-under-the-hood">Under the hood</a>
 
 </div>
 
