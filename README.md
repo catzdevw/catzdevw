@@ -33,7 +33,7 @@
 
 > **My default architecture:** React + TypeScript → Java + Spring Boot → PostgreSQL.
 
-## 🎯 JUST READ MY TECHNOLOGY STACK AND THAT'S IT. 
+## 🎯 READ TECH STACK DONE
 
 
 
