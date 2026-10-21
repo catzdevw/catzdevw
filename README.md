@@ -42,13 +42,6 @@
 - **Backend fundamentals:** API design, validation, JWT-based security, RBAC, and maintainable service layers.
 - **Reliable delivery:** debugging, database design, automated testing, and repeatable builds.
 
-## 🚀 Selected Work
-
-**[CATZ Harness CLI](https://github.com/catzdevw/CATZHarnessCLI)**  
-An open-source CLI for reusable engineering workflows, local workspace management, and validation.
-
-**SakloloPH** · *In development*  
-A Philippine-focused assistance management platform built with **React, Spring Boot, and PostgreSQL**, featuring request workflows and role-based access. *(Private repository.)*
 
 ## 🧩 Under the Hood
 
