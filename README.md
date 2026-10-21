@@ -1,8 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/catzdevw" title="Visit my GitHub profile">
-  <img src="./assets/catzdevw-hero.svg" alt="Animated CATZDEVW logo — full-stack software engineer" width="100%" />
-</a>
 
 <br/>
 
