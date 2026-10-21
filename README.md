@@ -36,14 +36,11 @@
 
 > **My default architecture:** React + TypeScript → Java + Spring Boot → PostgreSQL.
 
-## 🎯 Engineering Focus
-
-- **End-to-end systems:** connect frontend flows, backend business logic, and persistent data.
-- **Backend fundamentals:** API design, validation, JWT-based security, RBAC, and maintainable service layers.
-- **Reliable delivery:** debugging, database design, automated testing, and repeatable builds.
+## 🎯 JUST READ MY TECHNOLOGY STACK AND THAT'S IT. 
 
 
-## 🧩 Under the Hood
+
+
 
 <details>
 <summary><strong>↳ Explore my full-stack architecture</strong></summary>
@@ -82,8 +79,8 @@ I prefer clear separation of concerns: approachable UIs, explicit API contracts,
 <div align="center">
 
 <a href="https://github.com/catzdevw?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://github.com/catzdevw/CATZHarnessCLI"><img src="https://img.shields.io/badge/CATZ_Harness_CLI-6D28D9?style=for-the-badge&logo=gnubash&logoColor=white" alt="Explore CATZ Harness CLI" /></a>
 
-<sub>Build thoughtfully. Test thoroughly. Ship confidently.</sub>
+
+<sub> Simplicity.Simplicity. And Simplicity.</sub>
 
 </div>
