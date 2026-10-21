@@ -78,6 +78,6 @@ I prefer clear separation of concerns: approachable UIs, explicit API contracts,
 <a href="https://github.com/catzdevw?tab=repositories"><img src="https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 
-<sub> Simplicity.Simplicity. And Simplicity.</sub>
+<sub>SIMPLICITY.</sub>
 
 </div>
