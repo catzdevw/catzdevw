@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 
 <br/>
@@ -20,14 +20,7 @@
   <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" height="48" alt="PostgreSQL" /></a>
 </p>
 
-| Layer | Primary technologies | What I focus on |
-| :--- | :--- | :--- |
-| **Frontend** | **React · TypeScript** · Tailwind CSS · Bootstrap 5 | Component architecture, responsive UI, type safety |
-| **Backend** | **Java · Spring Boot** · Spring Security | REST APIs, layered architecture, authentication & authorization |
-| **Data** | **PostgreSQL** · Spring Data JPA · Hibernate | Relational modeling, SQL, persistence & transactions |
-| **Delivery** | Git · Docker · Maven · GitHub Actions | Testing, version control, build & deployment workflows |
 
-> **My default architecture:** React + TypeScript → Java + Spring Boot → PostgreSQL.
 
 ## 🎯 READ TECH STACK DONE
 
