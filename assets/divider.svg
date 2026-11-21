@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-labelledby="title">
+  <title id="title">Bohol Chocolate Hills section divider</title>
+  <g transform="translate(0 -393)">
+    <path d="M0 428 C70 400 104 380 159 408 C218 438 250 436 304 406 C356 376 390 390 435 419 C487 449 530 450 574 414 C621 378 671 382 721 413 C770 445 810 449 857 418 C915 380 968 395 1014 422 C1066 452 1118 386 1200 417 L1200 480 L0 480 Z" fill="#BB9AF7" opacity=".86"/>
+    <path d="M0 446 C62 414 103 412 160 438 C224 464 276 457 332 427 C389 399 437 420 486 446 C543 468 580 457 633 432 C681 410 728 411 777 439 C836 469 891 454 946 426 C1004 398 1066 424 1120 444 C1157 455 1184 446 1200 438 L1200 480 L0 480 Z" fill="#6D28D9"/>
+    <path d="M0 466 C156 453 240 469 344 459 C497 444 610 473 749 458 C900 443 1050 473 1200 457 L1200 480 L0 480 Z" fill="#2D1944"/>
+  </g>
+  <path d="M25 85 H1175" fill="none" stroke="#8B5CF6" stroke-opacity=".35" stroke-width="1.5"/>
+</svg>

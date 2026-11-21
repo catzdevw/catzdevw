@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I’m Felicito — civic tech for LGUs</title>
+  <desc id="desc">Bohol-inspired landscape with animated Chocolate Hills, and a typing line about building civic tech for LGUs.</desc>
+  <defs>
+    <clipPath id="card"><rect x="1.5" y="1.5" width="1197" height="477" rx="28"/></clipPath>
+    <mask id="typing-mask">
+      <rect x="69" y="357" width="300" height="41" fill="white">
+        <animate attributeName="width" values="0;18;36;55;71;88;109;126;141;159;174;190;210;227;244;262;280;300;300" keyTimes="0;0.045;0.09;0.135;0.18;0.225;0.27;0.315;0.36;0.405;0.45;0.495;0.54;0.585;0.63;0.675;0.72;0.765;1" dur="5.7s" repeatCount="indefinite" calcMode="discrete"/>
+      </rect>
+    </mask>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="480" fill="#110B1D"/>
+    <g opacity=".55" fill="none" stroke="#5E3B82" stroke-width="2">
+      <circle cx="1041" cy="168" r="117"/><circle cx="1041" cy="168" r="151"/><circle cx="1041" cy="168" r="183"/>
+    </g>
+    <circle cx="1041" cy="168" r="70" fill="#A78BFA">
+      <animate attributeName="cy" values="168;162;168" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="936" y="34" width="222" height="41" rx="20.5" fill="#2D1944"/>
+    <circle cx="957" cy="55" r="5" fill="#A78BFA"/>
+    <text x="973" y="61" font-family="'DM Sans',Arial,sans-serif" font-size="18" fill="#FBF9FF" font-weight="600">Bohol, Philippines</text>
+    <g font-family="'Bricolage Grotesque','Trebuchet MS',Arial,sans-serif" font-weight="800" font-size="60" letter-spacing="-1.8" fill="#FBF9FF">
+      <text x="69" y="122">Hi, I'm Felicito.</text>
+      <text x="69" y="192">I build digital systems</text>
+      <text x="69" y="261">for local government.</text>
+    </g>
+    <text x="71" y="309" font-family="'DM Sans',Arial,sans-serif" font-size="22" fill="#BEA6DD">CEO &amp; Tech Lead at Alza IT Solutions · Bohol, Philippines</text>
+    <text x="71" y="348" font-family="'DM Sans',Arial,sans-serif" font-size="19" fill="#BEA6DD">Currently building</text>
+    <text x="70" y="386" font-family="'DM Sans',Arial,sans-serif" font-weight="800" font-size="26" mask="url(#typing-mask)" fill="#C4B5FD">civic tech for LGUs</text>
+    <g>
+      <path d="M0 428 C70 400 104 380 159 408 C218 438 250 436 304 406 C356 376 390 390 435 419 C487 449 530 450 574 414 C621 378 671 382 721 413 C770 445 810 449 857 418 C915 380 968 395 1014 422 C1066 452 1118 386 1200 417 L1200 480 L0 480 Z" fill="#AA88EA">
+        <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 446 C62 414 103 412 160 438 C224 464 276 457 332 427 C389 399 437 420 486 446 C543 468 580 457 633 432 C681 410 728 411 777 439 C836 469 891 454 946 426 C1004 398 1066 424 1120 444 C1157 455 1184 446 1200 438 L1200 480 L0 480 Z" fill="#2D1944"/>
+      <path d="M0 466 C156 453 240 469 344 459 C497 444 610 473 749 458 C900 443 1050 473 1200 457 L1200 480 L0 480 Z" fill="#0C0912"/>
+    </g>
+  </g>
+  <rect x="1.5" y="1.5" width="1197" height="477" rx="28" fill="none" stroke="#5E3B82" stroke-width="3"/>
+</svg>

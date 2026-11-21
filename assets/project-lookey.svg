@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="240" viewBox="0 0 570 240" role="img" aria-label="LooKey featured project placeholder card">
+<rect x="1.5" y="1.5" width="567" height="237" rx="24" fill="#110B1D" stroke="#4B3068" stroke-width="3"/>
+<path d="M1 185C54 161 77 170 113 193S187 216 226 191S294 158 339 191S423 210 461 190S540 170 570 189L570 240L0 240Z" fill="#7C3AED" opacity=".23"/>
+<rect x="30" y="28" width="166" height="31" rx="15.5" fill="#2C1B40"/><circle cx="45" cy="44" r="5" fill="#A78BFA"/>
+<text x="57" y="49" font-family="'DM Sans',Arial,sans-serif" font-size="14" font-weight="700" fill="#DCC4FA">Project preview</text>
+<text x="30" y="117" font-family="'Bricolage Grotesque','Trebuchet MS',Arial,sans-serif" font-size="42" font-weight="800" fill="#FBF9FF">LooKey</text>
+<text x="31" y="148" font-family="'DM Sans',Arial,sans-serif" font-size="19" fill="#BEA8D6">Details to be added</text>
+<rect x="30" y="178" width="199" height="39" rx="19.5" fill="#A78BFA"/>
+<text x="47" y="203" font-family="'DM Sans',Arial,sans-serif" font-size="17" font-weight="700" fill="#110B1D">Explore projects  ↗</text>
+<g transform="translate(430 57)"><circle cx="45" cy="47" r="22" fill="none" stroke="#E9D5FF" stroke-width="7"/><path d="M61 63L99 100M79 82L91 70M88 91L100 79" fill="none" stroke="#A78BFA" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
