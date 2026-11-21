@@ -15,7 +15,7 @@
   </picture>
 </div>
 
-I’m **Felicito**, CEO and Tech Lead at **Alza IT Solutions**, based in **Bohol, Philippines**. I build practical digital systems for local government units, businesses, and schools—especially work that makes services simpler, more accessible, and more dependable.
+ I build practical digital systems for local government units, businesses, and schools—especially work that makes services simpler, more accessible, and more dependable.
 
 <div align="center">
   <a href="#featured-projects"><img alt="See my projects" src="https://img.shields.io/badge/See%20my%20projects-2D1944?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF" /></a>
