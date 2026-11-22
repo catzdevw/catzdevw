@@ -1,30 +1,32 @@
-# Set up and customize this profile
+# catzDev profile — maintenance guide
 
-The **black-violet** Chocolate Hills GitHub profile README is published to the public repository **catzdevw/catzdevw**. The existing `assets/catzdevw-hero.svg` is preserved but no longer used.
+The profile at [github.com/catzdevw](https://github.com/catzdevw) is driven by the root `README.md` in this special repository.
 
-## Update remaining placeholders
+## Files in use
 
-- **Public projects:** TAGAD, ONE TALIBON, Taliboom, Tapost, and LooKey currently link to the [public repositories listing](https://github.com/catzdevw?tab=repositories). Change each card `href` in `README.md` to the correct **public** repository URL, and replace “Details to be added” in `assets/project-*.svg` with an accurate description. Avoid links to private repositories, which visitors cannot open.
-- **Contact:** Replace `YOUR_EMAIL@example.com`, `YOUR_LINKEDIN`, and `YOUR_PORTFOLIO_DOMAIN` with verified public destinations.
-- **Username:** For another GitHub account, replace `catzdevw` in `README.md`; the repository name must equal the account username.
-- **Role and headline:** Update `README.md`, `assets/banner-light.svg`, and `assets/banner-dark.svg` as needed.
+- `README.md` — introduction, expandable tech-stack sections, architecture explanation, project case studies, activity, and links.
+- `assets/banner-dark.svg` and `assets/banner-light.svg` — complementary catzDev hero banners, selected based on the visitor's GitHub theme.
+- `assets/architecture.svg` — black-violet full-stack systems diagram.
+- `assets/divider.svg` — section dividers.
 
-## GitHub compatibility
+Other images in `assets/` are preserved from earlier iterations but are not presently referenced by the README.
 
-The categories and security section are native `<details>` disclosures, not JavaScript tabs. Badges link to sites rather than updating a description panel. GitHub will not execute custom JavaScript, custom CSS, iframes, or click-to-change interactive application state in profile READMEs. Banner SVG animations are SMIL; the artwork remains legible without them. External `readme-typing-svg`, `github-readme-stats`, `streak-stats` and shields.io services can cache, rate-limit, or fail to load. SVGs request Bricolage Grotesque and DM Sans with web-safe fallbacks.
+## Maintaining accuracy
 
-## Files
+- Primary stack: Java, Spring Boot, React, TypeScript, PostgreSQL.
+- Avoid unsupported experience levels, invented achievements, fake production claims, or unverifiable statistics.
+- Project descriptions are case studies: the source repos may be private or owned by collaborators. If a project becomes public, optionally add its exact public URL.
+- Do not publish private repository names, source details, emails, or personal contact details without deciding to make them public.
+- Update the stack and work sections as verified experience changes.
 
-```text
-README.md
-SETUP.md
-assets/
-  banner-light.svg
-  banner-dark.svg
-  divider.svg
-  project-tagad.svg
-  project-one-talibon.svg
-  project-taliboom.svg
-  project-tapost.svg
-  project-lookey.svg
-```
+## Interactivity and constraints
+
+GitHub profile README pages support Markdown, compatible HTML such as `<details>`/`<summary>`, clickable links, SVG imagery, and third-party image-based activity services. They do not support arbitrary JavaScript applications or custom CSS.
+
+Banner cursor animation is SVG-native, with a readable static fallback. Live typing/stats/contribution images rely on third-party providers, so images may be cached, limited, or temporarily unavailable.
+
+## How to update
+
+Edit `README.md` on the `main` branch, or submit a pull request. GitHub will automatically render the updated profile README.
+
+Keep headlines concise, ensure badges and diagrams have useful alternative text, and verify links after edits.
