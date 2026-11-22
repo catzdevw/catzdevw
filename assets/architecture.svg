@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="256" viewBox="0 0 1100 256" role="img" aria-labelledby="title desc">
+<title id="title">catzDev application architecture</title>
+<desc id="desc">React and TypeScript client communicates with Java Spring Boot REST API and PostgreSQL storage. Spring Security and JPA are part of the backend stack.</desc>
+<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1" fill="#483054"/></pattern></defs>
+<rect x="1" y="1" width="1098" height="254" rx="19" fill="#100D18" stroke="#3F2857" stroke-width="2"/>
+<rect x="2" y="2" width="1096" height="252" rx="19" fill="url(#dots)"/>
+<text x="34" y="41" font-family="Consolas,monospace" font-weight="700" font-size="14" letter-spacing="2" fill="#B896FF">SYSTEM ARCHITECTURE / FULL-STACK</text>
+<rect x="35" y="71" width="272" height="116" rx="13" fill="#1F172A" stroke="#6B4D88" stroke-width="1.5"/>
+<rect x="413" y="71" width="274" height="116" rx="13" fill="#241632" stroke="#B896FF" stroke-width="1.5"/>
+<rect x="793" y="71" width="272" height="116" rx="13" fill="#1F172A" stroke="#6B4D88" stroke-width="1.5"/>
+<text x="58" y="103" font-family="Consolas,monospace" font-size="14" fill="#B896FF">01 / CLIENT</text>
+<text x="58" y="136" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="23" fill="#FAF8FF">React + TypeScript</text>
+<text x="58" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#BDB2CD">Vite · responsive UI</text>
+<text x="437" y="103" font-family="Consolas,monospace" font-size="14" fill="#CBB4FF">02 / SERVER</text>
+<text x="437" y="136" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="23" fill="#FAF8FF">Java + Spring Boot</text>
+<text x="437" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#D0C0E4">REST · Security · JPA</text>
+<text x="817" y="103" font-family="Consolas,monospace" font-size="14" fill="#B896FF">03 / DATA</text>
+<text x="817" y="136" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="23" fill="#FAF8FF">PostgreSQL</text>
+<text x="817" y="160" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#BDB2CD">SQL · relational design</text>
+<path d="M316 130H397" stroke="#B896FF" stroke-width="2.5"/><path d="M387 120L399 130L387 140" fill="none" stroke="#B896FF" stroke-width="2.5"/>
+<path d="M696 130H777" stroke="#B896FF" stroke-width="2.5"/><path d="M767 120L779 130L767 140" fill="none" stroke="#B896FF" stroke-width="2.5"/>
+<text x="357" y="114" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#C4B5FD">HTTP</text>
+<text x="737" y="114" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#C4B5FD">JPA</text>
+<text x="550" y="223" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#CFC2DA">Designed as a modular, maintainable web application stack</text>
+</svg>
