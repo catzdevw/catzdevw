@@ -1,40 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
-  <title id="title">Hi, I’m Felicito — civic tech for LGUs</title>
-  <desc id="desc">Bohol-inspired landscape with animated Chocolate Hills, and a typing line about building civic tech for LGUs.</desc>
-  <defs>
-    <clipPath id="card"><rect x="1.5" y="1.5" width="1197" height="477" rx="28"/></clipPath>
-    <mask id="typing-mask">
-      <rect x="69" y="357" width="300" height="41" fill="white">
-        <animate attributeName="width" values="0;18;36;55;71;88;109;126;141;159;174;190;210;227;244;262;280;300;300" keyTimes="0;0.045;0.09;0.135;0.18;0.225;0.27;0.315;0.36;0.405;0.45;0.495;0.54;0.585;0.63;0.675;0.72;0.765;1" dur="5.7s" repeatCount="indefinite" calcMode="discrete"/>
-      </rect>
-    </mask>
-  </defs>
-  <g clip-path="url(#card)">
-    <rect width="1200" height="480" fill="#F6F2FF"/>
-    <g opacity=".55" fill="none" stroke="#D8C9EC" stroke-width="2">
-      <circle cx="1041" cy="168" r="117"/><circle cx="1041" cy="168" r="151"/><circle cx="1041" cy="168" r="183"/>
-    </g>
-    <circle cx="1041" cy="168" r="70" fill="#A78BFA">
-      <animate attributeName="cy" values="168;162;168" dur="7s" repeatCount="indefinite"/>
-    </circle>
-    <rect x="936" y="34" width="222" height="41" rx="20.5" fill="#4A2B67"/>
-    <circle cx="957" cy="55" r="5" fill="#A78BFA"/>
-    <text x="973" y="61" font-family="'DM Sans',Arial,sans-serif" font-size="18" fill="#FBF9FF" font-weight="600">Bohol, Philippines</text>
-    <g font-family="'Bricolage Grotesque','Trebuchet MS',Arial,sans-serif" font-weight="800" font-size="60" letter-spacing="-1.8" fill="#2D1944">
-      <text x="69" y="122">Hi, I'm Felicito.</text>
-      <text x="69" y="192">I build digital systems</text>
-      <text x="69" y="261">for local government.</text>
-    </g>
-    <text x="71" y="309" font-family="'DM Sans',Arial,sans-serif" font-size="22" fill="#665079">CEO &amp; Tech Lead at Alza IT Solutions · Bohol, Philippines</text>
-    <text x="71" y="348" font-family="'DM Sans',Arial,sans-serif" font-size="19" fill="#665079">Currently building</text>
-    <text x="70" y="386" font-family="'DM Sans',Arial,sans-serif" font-weight="800" font-size="26" mask="url(#typing-mask)" fill="#8B5CF6">civic tech for LGUs</text>
-    <g>
-      <path d="M0 428 C70 400 104 380 159 408 C218 438 250 436 304 406 C356 376 390 390 435 419 C487 449 530 450 574 414 C621 378 671 382 721 413 C770 445 810 449 857 418 C915 380 968 395 1014 422 C1066 452 1118 386 1200 417 L1200 480 L0 480 Z" fill="#BB9AF7">
-        <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="9s" repeatCount="indefinite"/>
-      </path>
-      <path d="M0 446 C62 414 103 412 160 438 C224 464 276 457 332 427 C389 399 437 420 486 446 C543 468 580 457 633 432 C681 410 728 411 777 439 C836 469 891 454 946 426 C1004 398 1066 424 1120 444 C1157 455 1184 446 1200 438 L1200 480 L0 480 Z" fill="#4A2B67"/>
-      <path d="M0 466 C156 453 240 469 344 459 C497 444 610 473 749 458 C900 443 1050 473 1200 457 L1200 480 L0 480 Z" fill="#2D1944"/>
-    </g>
-  </g>
-  <rect x="1.5" y="1.5" width="1197" height="477" rx="28" fill="none" stroke="#D8C9EC" stroke-width="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">catzDev — full-stack developer</title>
+<desc id="desc">A black-and-violet editorial developer banner. Java and Spring Boot, React and TypeScript, PostgreSQL. Decorative terminal animates a cursor.</desc>
+<defs>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#E7DDF3" stroke-width=".8"/></pattern>
+  <linearGradient id="violetLine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6D28D9"/><stop offset="1" stop-color="#C4A3FF"/></linearGradient>
+  <clipPath id="panelClip"><rect x="782" y="53" width="365" height="247" rx="18"/></clipPath>
+</defs>
+<rect width="1200" height="350" rx="22" fill="#F9F7FF"/>
+<rect width="1200" height="350" rx="22" fill="url(#grid)" opacity=".7"/>
+<path d="M18 2H1182Q1198 2 1198 18V332Q1198 348 1182 348H18Q2 348 2 332V18Q2 2 18 2Z" fill="none" stroke="#DED4EF" stroke-width="2"/>
+<path d="M0 0H1200" stroke="url(#violetLine)" stroke-width="7"/>
+<rect x="68" y="50" width="188" height="31" rx="15.5" fill="#E9DEFC" stroke="#D1B7F3"/>
+<circle cx="89" cy="65.5" r="5" fill="#6D28D9"><animate attributeName="opacity" values="1;.35;1" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="104" y="70.5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#57249A" letter-spacing="1.9">BUILD / LEARN / SHIP</text>
+<text x="65" y="182" font-family="Segoe UI,Arial,sans-serif" font-size="100" font-weight="800" letter-spacing="-5.2" fill="#211331">catz<tspan fill="#6D28D9">Dev</tspan></text>
+<text x="70" y="225" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="600" fill="#211331">Full-stack developer</text>
+<text x="70" y="255" font-family="Segoe UI,Arial,sans-serif" font-size="17.5" fill="#574A69">Engineering web systems with clarity, security &amp; purpose.</text>
+<path d="M70 280H704" stroke="#DED4EF" stroke-width="1.5"/>
+<text x="70" y="308" font-family="Consolas,monospace" font-size="14" fill="#6D28D9" letter-spacing=".3">JAVA / SPRING BOOT</text>
+<circle cx="270" cy="304" r="3" fill="#574A69"/>
+<text x="285" y="308" font-family="Consolas,monospace" font-size="14" fill="#574A69">REACT / TS</text>
+<circle cx="411" cy="304" r="3" fill="#574A69"/>
+<text x="426" y="308" font-family="Consolas,monospace" font-size="14" fill="#574A69">POSTGRESQL</text>
+<g clip-path="url(#panelClip)">
+  <rect x="782" y="53" width="365" height="247" rx="18" fill="#141020" stroke="#4B3264" stroke-width="2"/>
+  <rect x="782" y="53" width="365" height="48" fill="#21172F"/>
+  <circle cx="807" cy="77" r="5" fill="#B779AA"/><circle cx="826" cy="77" r="5" fill="#C6A967"/><circle cx="845" cy="77" r="5" fill="#8EBD9A"/>
+  <text x="875" y="82" font-family="Consolas,monospace" font-size="12" fill="#BDAACF">catzdev@workspace ~</text>
+  <text x="808" y="133" font-family="Consolas,monospace" font-size="15" fill="#C4A3FF">$ whoami</text>
+  <text x="808" y="158" font-family="Consolas,monospace" font-size="15" fill="#F9F6FF">catzDev</text>
+  <text x="808" y="197" font-family="Consolas,monospace" font-size="15" fill="#C4A3FF">$ focus --current</text>
+  <text x="808" y="224" font-family="Consolas,monospace" font-size="14" fill="#DAD2E8">full-stack systems</text>
+  <text x="808" y="250" font-family="Consolas,monospace" font-size="14" fill="#DAD2E8">web apps · civic tech</text>
+  <rect x="1032" y="235" width="10" height="18" rx="1" fill="#B896FF"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="782" y="53" width="365" height="247" rx="18" fill="none" stroke="#5D3E7A" stroke-width="1.6"/>
+<text x="1130" y="327" text-anchor="end" font-family="Consolas,monospace" font-size="11" fill="#574A69">PH • UTC+08</text>
 </svg>
