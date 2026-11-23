@@ -1,11 +1,5 @@
 <!-- catzDev | GitHub profile README | GitHub-compatible HTML + Markdown, no JS -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-    <img src="./assets/banner-dark.svg" alt="catzDev | Full-stack developer — Java, Spring Boot, React, TypeScript, PostgreSQL" width="100%" />
-  </picture>
-</div>
+
 
 <div align="center">
   <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-18111F?style=for-the-badge&logo=readme&logoColor=C4A3FF" alt="About me" /></a>
