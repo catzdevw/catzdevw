@@ -131,18 +131,6 @@ A selection of systems I've developed or worked on. **Some repositories are priv
 </tr>
 </table>
 
-<details>
-<summary><b>Other areas I explore ↗</b></summary>
-<br/>
-
-- **Personal Vault** — local-first encrypted personal information management.
-- **Financial dashboards** — income, expenses, categorization, and reporting.
-- **AI and automation** — developer tooling, workflows, and practical experiments.
-
-Projects and technologies here reflect work or exploration; they are not claims of production deployment, certifications, or commercial scale.
-
-</details>
-
 <p align="center">
 <a href="https://github.com/catzdevw?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PUBLIC_REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore public GitHub repositories" /></a>
 </p>
