@@ -21,17 +21,6 @@
 
 <p align="center"><img src="./assets/divider.svg" width="100%" alt="Violet signal divider" /></p>
 
-## About me
-
-I'm **catzDev**, a full-stack developer based in the Philippines. I design and build digital products—from accessible interfaces to structured backend services and relational databases. My interests include **civic technology**, **business systems**, and creating practical tools that make everyday work easier.
-
-- **What I build:** web applications, administration dashboards, workflow systems, and product MVPs.
-- **What I focus on:** maintainable architecture, secure APIs, usable interfaces, and reliable data flows.
-- **Current primary stack:** **Java + Spring Boot** on the backend, **React + TypeScript** on the frontend, and **PostgreSQL** for persistence.
-- **How I work:** translate requirements into working features, iterate with feedback, and improve code quality over time.
-
-> Good software is more than a good-looking interface. It should be understandable, maintainable, and useful to the people who depend on it.
-
 ## How I build systems
 
 <div align="center">
