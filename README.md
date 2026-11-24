@@ -28,7 +28,7 @@ REST APIs, Spring Data JPA, dependency injection, layered architecture, authenti
 
 </details>
 
-<details>
+<details open>
 <summary><b>Frontend Engineering</b> — React · TypeScript</summary>
 
 <br>
@@ -39,7 +39,7 @@ HTML, CSS, responsive interfaces, reusable components, API integration and clien
 
 </details>
 
-<details>
+<details open>
 <summary><b>Database & Persistence</b> — PostgreSQL · SQL</summary>
 
 <br>
@@ -50,7 +50,7 @@ Relational data modeling, SQL queries, entity relationships and ORM.
 
 </details>
 
-<details>
+<details open>
 <summary><b>Development Workflow & DevOps</b> — Git · Docker · CI/CD</summary>
 
 <br>
@@ -61,7 +61,7 @@ Version control, API testing, build automation, containerization, IntelliJ IDEA 
 
 </details>
 
-<details>
+<details open>
 <summary><b>Additional Technologies</b> — PHP · Laravel · Node.js · NestJS · Python</summary>
 
 <br>
@@ -116,12 +116,6 @@ An NFC-enabled digital profile and smart business card platform.
 Frontend contributions to a municipal intra-office system, focusing on user interface and workspace refinement.
 
 </details>
-
-## GitHub Activity
-
-<p align="center">
-<a href="https://github.com/catzdevw"><img src="https://github-readme-activity-graph.vercel.app/graph?username=catzdevw&amp;theme=github-compact&amp;hide_border=true" alt="GitHub contribution activity graph" /></a>
-</p>
 
 ## Education
 
