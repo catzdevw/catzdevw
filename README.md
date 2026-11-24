@@ -1,4 +1,3 @@
-<h1 align="center"> catzDev 🇵🇭 </h1>
 <p align="center"><strong>Full-Stack Developer · Java & Spring Boot</strong></p>
 
 <div align="center">
