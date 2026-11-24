@@ -8,7 +8,7 @@
 
 <p align="center">Building web applications, REST APIs, and practical business systems.</p>
 
-## Full-Stack Engineering Workflow
+
 
 <p align="center">
   <a href="https://github.com/catzdevw?tab=repositories"><img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,hibernate,maven&amp;perline=8" alt="Core technology stack" /></a>
