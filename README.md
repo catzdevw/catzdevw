@@ -1,50 +1,128 @@
 <h1 align="center">Hi, I'm Jhayr 🇵🇭</h1>
-
 <p align="center"><strong>Full-Stack Developer · Java & Spring Boot</strong></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/caturza-jhayr-b51b6538b/">LinkedIn</a> ·
-  <a href="https://official-personal-profile.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/catzdevw?tab=repositories">Repositories</a>
-</p>
+<div align="center">
 
-<p align="center">
-  I build web applications, REST APIs, and business systems with React, TypeScript, Java, Spring Boot, and PostgreSQL.
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caturza-jhayr-b51b6538b/) [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://official-personal-profile.vercel.app/) [![Repositories](https://img.shields.io/badge/Repositories-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/catzdevw?tab=repositories)
+
+</div>
+
+<p align="center">Building web applications, REST APIs, and practical business systems.</p>
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,hibernate,maven&amp;perline=8" alt="Java, Spring Boot, React, TypeScript, JavaScript, PostgreSQL, Hibernate, Maven" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,vite,docker,git,githubactions&amp;perline=8" alt="HTML, CSS, Tailwind CSS, Bootstrap, Vite, Docker, Git, GitHub Actions" />
+  <a href="https://github.com/catzdevw?tab=repositories"><img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,postgres,hibernate,maven&amp;perline=8" alt="Core technology stack" /></a>
 </p>
 
-| Area | Technologies |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Security, Spring Data JPA, Hibernate, Maven |
-| Frontend | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, Vite |
-| Database | PostgreSQL, SQL |
-| Engineering tools | Git, GitHub, GitHub Actions, Docker, Postman, IntelliJ IDEA, VS Code |
-| Additional experience | PHP, Laravel, Node.js, NestJS, Python |
+<p align="center"><sub>Expand each category to explore my technical skills.</sub></p>
+
+<details open>
+<summary><b>Backend Engineering</b> — Java · Spring Boot</summary>
+
+<br>
+
+[![Java](https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-43853D?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Spring Security](https://img.shields.io/badge/Spring%20Security-43853D?style=for-the-badge&logo=springsecurity&logoColor=white)](https://spring.io/projects/spring-security) [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/) [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+
+REST APIs, Spring Data JPA, dependency injection, layered architecture, authentication and authorization.
+
+</details>
+
+<details>
+<summary><b>Frontend Engineering</b> — React · TypeScript</summary>
+
+<br>
+
+[![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-806600?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-087EA4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+
+HTML, CSS, responsive interfaces, reusable components, API integration and client-side routing.
+
+</details>
+
+<details>
+<summary><b>Database & Persistence</b> — PostgreSQL · SQL</summary>
+
+<br>
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
+
+Relational data modeling, SQL queries, entity relationships and ORM.
+
+</details>
+
+<details>
+<summary><b>Development Workflow & DevOps</b> — Git · Docker · CI/CD</summary>
+
+<br>
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/catzdevw) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Postman](https://img.shields.io/badge/Postman-D65B28?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+Version control, API testing, build automation, containerization, IntelliJ IDEA and VS Code.
+
+</details>
+
+<details>
+<summary><b>Additional Technologies</b> — PHP · Laravel · Node.js · NestJS · Python</summary>
+
+<br>
+
+<p><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,python" alt="Additional technologies" /></p>
+
+</details>
 
 ## Engineering Skills
 
-REST API development · JWT authentication · Role-based access control · Relational database design · Layered architecture · API testing · CI/CD
+`REST APIs` · `JWT` · `RBAC` · `SQL` · `Layered Architecture` · `API Testing` · `CI/CD`
 
 ## Selected Projects
 
-| Project | Description |
-| --- | --- |
-| **[SakloloPH](https://github.com/catzdevw/Saklolo-PH-v.2)** | Disaster relief coordination system with assistance requests, role-based access, and administrative workflows. |
-| **[TAPOST](https://github.com/catzdevw/TapostNFC)** | NFC-enabled digital profile and smart business card platform. |
-| **ONE TALIBON** | Frontend contributions to a municipal intra-office system built with React, TypeScript, and Laravel. |
+<details open>
+<summary><b>SakloloPH</b> — Disaster Relief Coordination System</summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,java,spring,postgres,bootstrap" alt="SakloloPH stack" />
+
+A full-stack system for coordinating assistance requests and administrative relief workflows.
+
+- Resident and administrator access
+- Assistance request submission and status tracking
+- REST API and relational database integration
+
+[![View repository](https://img.shields.io/badge/View_Repository-24292F?style=for-the-badge&logo=github)](https://github.com/catzdevw/Saklolo-PH-v.2)
+
+</details>
+
+<details>
+<summary><b>TAPOST</b> — NFC Business Card Platform</summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,java,spring,postgres" alt="TAPOST stack" />
+
+An NFC-enabled digital profile and smart business card platform.
+
+[![View repository](https://img.shields.io/badge/View_Repository-24292F?style=for-the-badge&logo=github)](https://github.com/catzdevw/TapostNFC)
+
+</details>
+
+<details>
+<summary><b>ONE TALIBON</b> — Municipal Intra-Office System</summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,php,laravel" alt="ONE TALIBON stack" />
+
+Frontend contributions to a municipal intra-office system, focusing on user interface and workspace refinement.
+
+</details>
+
+## GitHub Activity
+
+<p align="center">
+<a href="https://github.com/catzdevw"><img src="https://github-readme-activity-graph.vercel.app/graph?username=catzdevw&amp;theme=github-compact&amp;hide_border=true" alt="GitHub contribution activity graph" /></a>
+</p>
 
 ## Education
 
 Bachelor of Science in Information Systems (BSIS) — Philippines
-
-<p align="center">
-  <a href="https://github.com/catzdevw?tab=repositories">Explore my work</a> ·
-  <a href="https://www.linkedin.com/in/caturza-jhayr-b51b6538b/">Connect on LinkedIn</a>
-</p>
