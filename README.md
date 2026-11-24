@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm a Full-Stack Developer and the founder of **Alza.net Solution**, a local tech startup powered by a small team of fewer than five people. We focus on building practical digital solutions for businesses and communities.
+I'm a Full-Stack Developer and the one of the founder  **Alza.net Solution**, a local tech startup powered by a small team of fewer than five people. We focus on building practical digital solutions for businesses and communities.
 
 My current focus is **backend development using Java and Spring Boot**, with an emphasis on secure APIs, maintainable architecture, and relational databases.
 
