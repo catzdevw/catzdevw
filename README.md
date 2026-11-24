@@ -1,4 +1,5 @@
 <h1 align="center"> catzDev 🇵🇭</h1>
+<h2 align= "center"> Java Developer </h2>
 <p align="center"><strong>Full-Stack Developer · Java & Spring Boot</strong></p>
 
 <div align="center">
